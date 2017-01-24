@@ -2,7 +2,7 @@ Uuid: db8fcf232cdc40f29089f440d39eb899
 ExtensionType: 3
 Name: Splunk Connector
 ScreenVersion: 1.0
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Tiago Ferreira
