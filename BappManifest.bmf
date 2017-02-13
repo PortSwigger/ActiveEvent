@@ -1,6 +1,7 @@
 Uuid: db8fcf232cdc40f29089f440d39eb899
 ExtensionType: 3
 Name: Splunk Connector
+RepoName: splunk-connector
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
